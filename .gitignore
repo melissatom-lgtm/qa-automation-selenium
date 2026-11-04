@@ -1,0 +1,13 @@
+# Archivos generados por Maven
+target/
+
+# Archivos de Java
+*.class
+*.log
+
+# Configuracion de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
